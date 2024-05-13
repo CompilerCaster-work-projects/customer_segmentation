@@ -41,4 +41,5 @@ In the beginning we take Taxpayer Identification Number (TIN) (in Russia we call
 select distinct o.inn as “ИНН”
 from structures.organizations o
 ```
+Next, we add this information about the TIN to an Excel file and, according to the instructions from the site (https://micro-solution.ru/projects/proxl), download and install the add-in in Excel, which allows you to automatically obtain information about all Russian companies and private entrepreneurs without the need to search for this information manually on the Internet.
 
