@@ -57,3 +57,5 @@ db.inspections.aggregate([
 {'$project':{'_id':0, 'inn':'$_id.inn', 'unique_employees':{'$size':'$unique_employees'}}}
 
 ])
+
+$$ language mongodb;
