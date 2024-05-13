@@ -42,4 +42,7 @@ select distinct o.inn as “ИНН”
 from structures.organizations o
 ```
 Next, we add this information about the TIN to an Excel file and, according to the instructions from the site (https://micro-solution.ru/projects/proxl), download and install the add-in in Excel, which allows you to automatically obtain information about all Russian companies and private entrepreneurs without the need to search for this information manually on the Internet.
+![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/b6cb4716-1789-4625-bab4-52e5c7afd985)
+
+
 
