@@ -37,7 +37,7 @@ So these are the characteristics:
 We will also need the satisfaction indicators of both companies and their levels of exclusion at certain points in time.
 
 In the beginning we take Taxpayer Identification Number (TIN) (in Russia we call it INN) from anywhere. For example, this could be a database script:
-```
+```sql
 select distinct o.inn as “ИНН”
 from structures.organizations o
 ```
