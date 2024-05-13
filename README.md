@@ -28,10 +28,12 @@ So these are the characteristics:
 6. The industry in which the company falls by its type of activity
 7. What specific services did the company pay for?
 8. Is the client considering alternative routes for conducting inspections?
-9. Frequency of inspections (average for all drivers in the company: \[ \frac{{\text{{amount (times each specific driver undergoes inspection)}}}}{{\text{{number of drivers}}}} \]
+9. Frequency of inspections (average for all drivers in the company:
 
-10. Number of active drivers in the company (the number of company drivers who had inspections during a certain period of time studied by us)
-11. Average daily percentage of drivers who pass inspections out of all active drivers
-12. Number of PACs in the organization (amount (number of PACs in the organization for a certain day)/number of days in the period we studied). That is, the average number of those PACs that the organization had every day during the period we studied
-13. What are the limits on the company’s health indicators? (I’ll make a reservation that individual health boundaries can be expanded not only for specific drivers, but also for all drivers in a given company in general)
+11. \[ \frac{{\text{{amount (times each specific driver undergoes inspection)}}}}{{\text{{number of drivers}}}} \]
+
+12. Number of active drivers in the company (the number of company drivers who had inspections during a certain period of time studied by us)
+13. Average daily percentage of drivers who pass inspections out of all active drivers
+14. Number of PACs in the organization (amount (number of PACs in the organization for a certain day)/number of days in the period we studied). That is, the average number of those PACs that the organization had every day during the period we studied
+15. What are the limits on the company’s health indicators? (I’ll make a reservation that individual health boundaries can be expanded not only for specific drivers, but also for all drivers in a given company in general)
 
