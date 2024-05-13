@@ -34,3 +34,11 @@ So these are the characteristics:
 12. Number of PACs in the organization (amount (number of PACs in the organization for a certain day)/number of days in the period we studied). That is, the average of those. PACs that the organization had every day during the period we studied
 13. What are the limits on the company’s health indicators? (I’ll make a reservation that individual health boundaries can be expanded not only for specific drivers, but also for all drivers in a given company in general)
 
+We will also need the satisfaction indicators of both companies and their levels of exclusion at certain points in time.
+
+In the beginning we take Taxpayer Identification Number (TIN) (in Russia we call it INN) from anywhere. For example, this could be a database script:
+```
+select distinct o.inn as “ИНН”
+from structures.organizations o
+```
+
