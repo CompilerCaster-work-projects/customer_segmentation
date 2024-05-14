@@ -50,6 +50,10 @@ We get information for points 5-7 from a corporate Excel file with information a
 We also receive information for point 8 from the sales manager in the form of the “Comment” field, and then we create fields with the rating of this comment. The rating can be negative, positive or neutral.
 ![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/b6aa9cbd-464d-4b4d-b4db-bc6e3ed3bfd5)
 
+for item 10 from the list:
+
+just run the script ```active_drivers.js``` 
+
 
 
 
