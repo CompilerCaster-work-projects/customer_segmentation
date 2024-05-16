@@ -54,6 +54,14 @@ We also receive information **for point 8** from the sales manager in the form o
 
 just run the script ```active_drivers.js```. Then we paste this data into Excel, like all the data we receive.
 
+**for item 11** from the list:
+
+First, let's run the script ```average_daily_percentage_of_drivers.js```. After uploading, you will have data with the following structure:
+
+![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/4b9ab24c-e0b6-493e-82fd-943f286968ae)
+
+
+
 
 
 
