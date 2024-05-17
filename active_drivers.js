@@ -1,3 +1,5 @@
+// language: mongodb
+
 db.inspections.aggregate([
 {'$match':{
 'timestamps.processedAt': {'$gte': new ISODate("2023-10-01T00:00:00.000Z"), '$lte': new ISODate("2024-01-17T23:59:59.999Z")},
@@ -55,3 +57,5 @@ db.inspections.aggregate([
 {'$project':{'_id':0, 'inn':'$_id.inn', 'unique_employees':{'$size':'$unique_employees'}}}
 
 ])
+
+
