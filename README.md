@@ -60,6 +60,28 @@ First, let's run the script ```average_daily_percentage_of_drivers.js```. After 
 
 ![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/4b9ab24c-e0b6-493e-82fd-943f286968ae)
 
+Now, using the VLOOKUP, we insert a column next to the active drivers for the entire period:
+
+![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/54c5b4e4-e94b-4e87-ac5b-108ee78c57d4)
+
+And then we get the percentage of drivers who passed inspections on a particular day from all active drivers during the period we studied:
+
+![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/56e8b1e5-fba3-41bf-9a74-573e66435471)
+
+As a result, you will get a table with the following structure:
+
+![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/9f192127-7a24-4c0a-b3f5-ca534e4a5bd9)
+
+Next, we need to find the average percentage for each company over the time period we are studying (the rightmost table in the screenshot):
+
+![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/d7987684-c314-4751-841f-fd1d8239d8a5)
+
+We stretch its right column according to the formula indicated on the screenshot, and in the left column we simply designate all the unique TIN of the companies we study in any way.
+
+
+
+
+
 
 
 
