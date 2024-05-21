@@ -89,6 +89,8 @@ We stretch its right column according to the formula indicated on the screenshot
 
 The fewer branches a company has, the greater the satisfaction, but the null hypothesis cannot be rejected (probability of error - 5%). To be even more precise, there is an 89% probability that there is no relationship, since the p-value is much higher than the critical level (significance level).
 
+At this point I completed this project.
+
 
 
 
