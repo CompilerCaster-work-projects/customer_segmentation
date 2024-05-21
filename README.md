@@ -78,13 +78,14 @@ Next, we need to find the average percentage for each company over the time peri
 
 We stretch its right column according to the formula indicated on the screenshot, and in the left column we simply designate all the unique TIN of the companies we study in any way.
 
-Next, we tried to conduct correlation analysis and analysis using the conjugate table method:
+***Next, we tried to conduct correlation analysis and analysis using the conjugate table method:***
 
 ![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/b1143cf7-f3a1-44dc-ba92-837d6a46c69f)
 
-![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/ea2e6eaa-2796-4fe1-823b-5947b19a506e)
+![изображение](https://github.com/CompilerCaster/customer_segmentation/assets/128957307/2f362224-7f2e-4029-aef0-0cf16e2cd711)
 
-And then they made the following conclusions:
+
+***And then they made the following conclusions:***
 
 The fewer branches a company has, the greater the satisfaction, but the null hypothesis cannot be rejected (probability of error - 5%). To be even more precise, there is an 89% probability that there is no relationship, since the p-value is much higher than the critical level (significance level).
 
